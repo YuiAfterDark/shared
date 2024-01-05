@@ -2,3 +2,9 @@
 
 /* import Shishio's fixes for new features and QuantCast */
 @\import "https://onedrive.live.com/download?cid=4A07C1EEED420167&resid=4A07C1EEED420167%211210&authkey=AIspvg3EwthZV6g";
+
+/* remove new Statistics buttons */
+.icon-menu.statistics,
+.list-stats .floatRightHeader {
+	display: none;
+}
