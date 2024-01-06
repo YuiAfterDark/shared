@@ -5,5 +5,5 @@
 
 /* remove new Statistics button */
 #mal_control_strip a[href$="/statistics"] {
-	display: none;
+	display: none !important;
 }

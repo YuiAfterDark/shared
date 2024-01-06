@@ -6,5 +6,5 @@
 /* remove new Statistics buttons */
 .icon-menu.statistics,
 .list-stats .floatRightHeader {
-	display: none;
+	display: none !important;
 }
